@@ -19,3 +19,6 @@ PyPDF2
 
 # Photo Editor
 Pillow
+
+#phone tracker
+phonenumbers
