@@ -17,4 +17,5 @@ PyPDF2
 # Install espeak
 # https://stackoverflow.com/questions/65274843/oserror-libespeak-so-1-cannot-open-shared-object-file-no-such-file-or-directo
 
-
+# Photo Editor
+Pillow
