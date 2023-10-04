@@ -22,3 +22,6 @@ Pillow
 
 #phone tracker
 phonenumbers
+
+# weather api
+requests
