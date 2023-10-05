@@ -25,3 +25,6 @@ phonenumbers
 
 # weather api
 requests
+
+# youtube_downloader
+pytube
